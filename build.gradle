@@ -29,5 +29,6 @@ dependencies {
     testImplementation 'junit:junit:4.12'
 
     // https://mvnrepository.com/artifact/org.snmp4j/snmp4j
-    compile group: 'org.snmp4j', name: 'snmp4j', version: '3.1.0'
+    //compile group: 'org.snmp4j', name: 'snmp4j', version: '3.1.0'
+    compile group: 'org.snmp4j', name: 'snmp4j', version: '2.5.8'
 }
