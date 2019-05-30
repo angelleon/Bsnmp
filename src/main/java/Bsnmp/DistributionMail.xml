@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snmpBoletazo>
+<staff id="100">
+    <email>fuentesamaury@hotmail.com</email>
+</staff>
+<staff id="200">
+    <email>gamunix@gmail.com</email>
+</staff>
+<staff id="300">
+    <email>huehue@hotmail.com</email>
+</staff>
+<staff id="400">
+    <email>numamesZombies@hotmail.com</email>
+</staff>
+</snmpBoletazo>
